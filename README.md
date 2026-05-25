@@ -4,8 +4,19 @@ Este proyecto consiste en un sistema automatizado desarrollado en Excel para la 
 
 La solución permite controlar recetas, calcular costos reales de producción, analizar márgenes de ganancia y visualizar indicadores clave mediante dashboards interactivos, optimizando la toma de decisiones comerciales.
 
+## 🚀 Funcionalidades Principales
+* Automatización de Costos de Producción
+Cálculo automático de costos por receta considerando ingredientes, mano de obra y costos indirectos.
+* Conversión Inteligente de Unidades
+Transformación automática de unidades de compra (Kg/Litros) a unidades base (gramos/mililitros) mediante fórmulas dinámicas.
+* Gestión Relacional de Productos e Insumos
+Relación automatizada entre productos, recetas e insumos para evitar duplicidad de información y facilitar actualizaciones de precios.
+* Dashboards Interactivos
+Visualización dinámica de ventas, ganancias y márgenes mediante gráficos y segmentadores.
+* Validación y Protección de Datos
+Uso de listas dinámicas, validaciones automatizadas y protección parcial de columnas para reducir errores de ingreso.
 
-tilizadas
+## 🛠 Herramientas Utilizadas
 * Microsoft Excel
 * Fórmulas avanzadas
 * Tablas dinámicas
@@ -38,7 +49,7 @@ Cálculo automático de costos totales considerando ingredientes, mano de obra y
 ### 🍰 Automatización de Recetas e Insumos
 Relación automatizada entre productos, ingredientes y costos mediante validaciones dinámicas y fórmulas inteligentes.
 ![Recetas Relacionales](images/Recetas_Automatización_relacional.png)
-![Recetas Relacionales](images/Recetas_id-automatizado.png.png)
+![Recetas Relacionales_Id](images/Recetas_id-automatizado.png)
 
 ### 📋 Validación Dinámica de Ingredientes
 Listas desplegables inteligentes vinculadas a tablas oficiales para evitar errores y facilitar el registro de recetas.
