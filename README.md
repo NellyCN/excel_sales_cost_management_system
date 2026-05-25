@@ -48,7 +48,7 @@ Cálculo automático de costos totales considerando ingredientes, mano de obra y
 
 ### 🍰 Automatización de Recetas e Insumos
 Relación automatizada entre productos, ingredientes y costos mediante validaciones dinámicas y fórmulas inteligentes.
-![Recetas Relacionales](images/Recetas_Automatización_relacional.png)
+![Recetas Relacionales](images/Recetas_Automatización_relacional.PNG)
 ![Recetas Relacionales_Id](images/Recetas_id-automatizado.png)
 
 ### 📋 Validación Dinámica de Ingredientes
