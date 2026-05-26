@@ -5,15 +5,15 @@ Este proyecto consiste en un sistema automatizado desarrollado en Excel para la 
 La solución permite controlar recetas, calcular costos reales de producción, analizar márgenes de ganancia y visualizar indicadores clave mediante dashboards interactivos, optimizando la toma de decisiones comerciales.
 
 ## 🚀 Funcionalidades Principales
-* Automatización de Costos de Producción
-Cálculo automático de costos por receta considerando ingredientes, mano de obra y costos indirectos.
-* Conversión Inteligente de Unidades
+* **Automatización de Costos de Producción**
+  Cálculo automático de costos por receta considerando ingredientes, mano de obra y costos indirectos.
+* **Conversión Inteligente de Unidades**
 Transformación automática de unidades de compra (Kg/Litros) a unidades base (gramos/mililitros) mediante fórmulas dinámicas.
-* Gestión Relacional de Productos e Insumos
+* **Gestión Relacional de Productos e Insumos**
 Relación automatizada entre productos, recetas e insumos para evitar duplicidad de información y facilitar actualizaciones de precios.
-* Dashboards Interactivos
+* **Dashboards Interactivos**
 Visualización dinámica de ventas, ganancias y márgenes mediante gráficos y segmentadores.
-* Validación y Protección de Datos
+* **Validación y Protección de Datos**
 Uso de listas dinámicas, validaciones automatizadas y protección parcial de columnas para reducir errores de ingreso.
 
 ## 🛠 Herramientas Utilizadas
@@ -56,3 +56,24 @@ Listas desplegables inteligentes vinculadas a tablas oficiales para evitar error
 ![Recetas Listas](images/Recetas_Validación_dinámica_inteligente.png)
 
 ## 🎥 Video Demostrativo
+< video demostrativo próximamente >
+
+## 📌 Beneficios del Sistema
+* Automatización de cálculos comerciales y operativos.
+* Reducción de errores manuales en costos y recetas.
+* Mayor visibilidad de rentabilidad por producto.
+* Optimización del control administrativo y financiero.
+* Escalabilidad para incorporar futuros módulos de inventario y control de stock.
+
+## 🚧 Mejoras Futuras
+* Implementación de control de inventario y stock en tiempo real.
+* Generación automática de reportes mensuales.
+* Integración de alertas para productos con bajo margen de ganancia.
+* Optimización visual del dashboard ejecutivo.
+* Migración futura a una solución web interactiva.
+
+## 👩‍💻 Autor
+
+Desarrollado por Nelly Cumpa
+
+Proyecto orientado a la automatización de procesos comerciales, análisis de datos y optimización operativa mediante herramientas accesibles y visuales.
