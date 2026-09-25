@@ -1,4 +1,4 @@
-# 🎂 Sistema Automatizado de Gestión Comercial y Costos para Pastelería
+# 🎂 Sistema Automatizado de Gestión Comercial y Costos
 
 Este proyecto consiste en un sistema automatizado desarrollado en Excel para la gestión integral de ventas, costos y rentabilidad en un negocio de pastelería.
 
